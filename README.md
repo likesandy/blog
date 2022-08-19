@@ -32,7 +32,6 @@
 
 1. [TypeScript 之泛型](https://github.com/likesandy/blog/issues/1)
 2. [TypeScript 之常见类型(上)](https://github.com/likesandy/blog/issues/2)
-2. [TypeScript 之常见类型(上)](https://github.com/likesandy/blog/issues/2)
 3. [TypeScript 之常见类型(下)](https://github.com/likesandy/blog/issues/7)
 4. [TypeScript 之高级类型](https://github.com/likesandy/blog/issues/15)
 5. [TypeScript 之类型缩小](https://github.com/likesandy/blog/issues/8)
