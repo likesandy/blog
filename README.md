@@ -25,14 +25,15 @@
 
 ## TypeScript 系列
 
-- [TypeScript 之泛型](https://github.com/likesandy/blog/issues/1)
-- [TypeScript 之常见类型(上)](https://github.com/likesandy/blog/issues/2)
-- [TypeScript 之常见类型(下)](https://github.com/likesandy/blog/issues/7)
-- [TypeScript 之高级类型](https://github.com/likesandy/blog/issues/15)
-- [TypeScript 之类型缩小](https://github.com/likesandy/blog/issues/8)
-- [TypeScript 之函数](https://github.com/likesandy/blog/issues/9)
-- [TypeScript 之类](https://github.com/likesandy/blog/issues/10)
-- [TypeScript 之对象类型](https://github.com/likesandy/blog/issues/11)
+- [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/16)
+- [TypeScript之](https://github.com/likesandy/blog/issues/1)
+- [TypeScript之常见类型(上)](https://github.com/likesandy/blog/issues/2)
+- [TypeScript之常见类型(下)](https://github.com/likesandy/blog/issues/7)
+- [TypeScript之高级类型](https://github.com/likesandy/blog/issues/15)
+- [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
+- [TypeScript之函数](https://github.com/likesandy/blog/issues/9)
+- [TypeScript之类](https://github.com/likesandy/blog/issues/10)
+- [TypeScript之对象类型](https://github.com/likesandy/blog/issues/11)
 
 <!-- 泛型:类型参数化 -->
 
