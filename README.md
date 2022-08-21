@@ -1,6 +1,8 @@
-# codertao 的个人博客
+# codertao 的博客
 
-学习前端的个人笔记+优文转载
+## 最近更新
+
+- [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/16)--2022/8/21
 
 ## 优文转载
 
@@ -30,6 +32,8 @@
 - [TypeScript之常见类型(上)](https://github.com/likesandy/blog/issues/2)
 - [TypeScript之常见类型(下)](https://github.com/likesandy/blog/issues/7)
 - [TypeScript之高级类型](https://github.com/likesandy/blog/issues/15)
+<details><summary>显示更多</summary>
+  
 - [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
 - [TypeScript之函数](https://github.com/likesandy/blog/issues/9)
 - [TypeScript之类](https://github.com/likesandy/blog/issues/10)
