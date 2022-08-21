@@ -27,8 +27,8 @@
 
 ## TypeScript 系列
 
-- [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/16)
-- [TypeScript之](https://github.com/likesandy/blog/issues/1)
+- [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/17)
+- [TypeScript之泛型](https://github.com/likesandy/blog/issues/1)
 - [TypeScript之常见类型(上)](https://github.com/likesandy/blog/issues/2)
 - [TypeScript之常见类型(下)](https://github.com/likesandy/blog/issues/7)
 - [TypeScript之高级类型](https://github.com/likesandy/blog/issues/15)
