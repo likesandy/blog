@@ -3,6 +3,7 @@
 ## 最近更新
 
 - [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/17)--2022/8/21
+- [TypeScript之模块](https://github.com/likesandy/blog/issues/18)--2022/8/22
 
 ## 优文转载
 
