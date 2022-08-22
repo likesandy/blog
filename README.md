@@ -2,6 +2,7 @@
 
 ## 最近更新
 
+- [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)--2022/8/23
 - [TypeScript之模块](https://github.com/likesandy/blog/issues/18)--2022/8/22
 - [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/17)--2022/8/21
 
@@ -33,16 +34,16 @@
 - [TypeScript之高级类型](https://github.com/likesandy/blog/issues/15)
 - [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/17)
 - [TypeScript之泛型](https://github.com/likesandy/blog/issues/1)
-- [TypeScript之模块](https://github.com/likesandy/blog/issues/18)
-
 
 <details>
 <summary>显示更多</summary>
 
-- [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
+- [TypeScript之模块](https://github.com/likesandy/blog/issues/18)
+- [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)
+<!-- - [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
 - [TypeScript之函数](https://github.com/likesandy/blog/issues/9)
 - [TypeScript之类](https://github.com/likesandy/blog/issues/10)
-- [TypeScript之对象类型](https://github.com/likesandy/blog/issues/11)/
+- [TypeScript之对象类型](https://github.com/likesandy/blog/issues/11) -->
 </details>
 
 ## lib 库系列
