@@ -2,6 +2,7 @@
 
 ## 最近更新
 
+- [JavaScript之ESNext](https://github.com/likesandy/blog/issues/20)--2022/8/23
 - [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)--2022/8/23
 - [TypeScript之模块](https://github.com/likesandy/blog/issues/18)--2022/8/22
 - [TypeScript之类、接口和 OOP](https://github.com/likesandy/blog/issues/17)--2022/8/21
@@ -20,7 +21,8 @@
 
 ## JavaScript 系列
 
-- [面向对象](https://github.com/likesandy/blog/issues/14)
+- [JavaScript之OOP](https://github.com/likesandy/blog/issues/14)
+- [JavaScript之ESNext](https://github.com/likesandy/blog/issues/20)
 
 ## ESNext 系列
 
