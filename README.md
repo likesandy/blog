@@ -2,6 +2,7 @@
 
 ## 最近更新
 
+- [TypeScript之类型收窄](https://github.com/likesandy/blog/issues/8)--2022/8/31
 - [JavaScript之ESNext](https://github.com/likesandy/blog/issues/20)--2022/8/23
 - [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)--2022/8/23
 - [TypeScript之模块](https://github.com/likesandy/blog/issues/18)--2022/8/22
@@ -40,10 +41,10 @@
 <details>
 <summary>显示更多</summary>
 
+- [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
 - [TypeScript之模块](https://github.com/likesandy/blog/issues/18)
 - [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)
-<!-- - [TypeScript之类型缩小](https://github.com/likesandy/blog/issues/8)
-- [TypeScript之函数](https://github.com/likesandy/blog/issues/9)
+<!--- [TypeScript之函数](https://github.com/likesandy/blog/issues/9)
 - [TypeScript之类](https://github.com/likesandy/blog/issues/10)
 - [TypeScript之对象类型](https://github.com/likesandy/blog/issues/11) -->
 </details>
