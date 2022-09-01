@@ -2,6 +2,7 @@
 
 ## 最近更新
 
+- [React之高级特性](https://github.com/likesandy/blog/issues/24)--2022/9/1
 - [TypeScript之类型收窄](https://github.com/likesandy/blog/issues/8)--2022/8/31
 - [JavaScript之ESNext](https://github.com/likesandy/blog/issues/20)--2022/8/23
 - [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)--2022/8/23
@@ -15,6 +16,7 @@
 | [六月](https://github.com/likesandy/blog/issues/3) |         |
 | [七月](https://github.com/likesandy/blog/issues/4) |         |
 | [八月](https://github.com/likesandy/blog/issues/15) |         |
+| [九月](https://github.com/likesandy/blog/issues/25) |         |
 
 ## 设计模式系列
 
@@ -29,6 +31,9 @@
 
 -  [ES7](https://github.com/likesandy/blog/issues/5)
 -  [ES8](https://github.com/likesandy/blog/issues/6)
+
+## React 系列
+- [React之高级特性](https://github.com/likesandy/blog/issues/24)
 
 ## TypeScript 系列
 
