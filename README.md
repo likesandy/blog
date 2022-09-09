@@ -2,11 +2,11 @@
 
 ## 最近更新
 
+- [ES6系列之迭代器和生成器](https://github.com/likesandy/blog/issues/27)--2022/9/9
 - [ES7](https://github.com/likesandy/blog/issues/5)--2022/9/7
 - [React之高级特性](https://github.com/likesandy/blog/issues/24)--2022/9/1
 - [TypeScript之类型收窄](https://github.com/likesandy/blog/issues/8)--2022/8/31
 - [JavaScript之ESNext](https://github.com/likesandy/blog/issues/20)--2022/8/23
-- [TypeScript之集成JS](https://github.com/likesandy/blog/issues/19)--2022/8/23
 
 ## 优文转载
 
@@ -28,6 +28,7 @@
 
 ## ES6 系列
 
+- [ES6系列之迭代器和生成器](https://github.com/likesandy/blog/issues/27)
 
 
 ## ESNext 系列
