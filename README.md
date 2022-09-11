@@ -18,9 +18,9 @@
 | [八月](https://github.com/likesandy/blog/issues/15) |      
 | [九月](https://github.com/likesandy/blog/issues/25) |      
 
-## 设计模式系列
+<!--- ## 设计模式系列
 
-个人推荐阅读[大话设计模式](https://book.douban.com/subject/2334288/) + [设计模式与TypeScript](https://refactoringguru.cn/design-patterns/typescript)
+ 个人推荐阅读[大话设计模式](https://book.douban.com/subject/2334288/) + [设计模式与TypeScript](https://refactoringguru.cn/design-patterns/typescript) -->
 
 ## JavaScript 系列
 
