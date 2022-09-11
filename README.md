@@ -2,7 +2,7 @@
 
 ## 最近更新
 
-- [ES6系列之迭代器和生成器](https://github.com/likesandy/blog/issues/27)--2022/9/9
+- [ES6系列之迭代器和生成器](https://github.com/likesandy/blog/issues/27)--2022/9/11
 - [ES7](https://github.com/likesandy/blog/issues/5)--2022/9/7
 - [React之高级特性](https://github.com/likesandy/blog/issues/24)--2022/9/1
 - [TypeScript之类型收窄](https://github.com/likesandy/blog/issues/8)--2022/8/31
